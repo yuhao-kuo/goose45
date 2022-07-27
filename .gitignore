@@ -1,0 +1,8 @@
+*-backups/
+*_backups/
+*.bak/
+*.bk/
+*.bak
+*.bk
+*-cache
+*.swp
