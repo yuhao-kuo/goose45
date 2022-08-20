@@ -414,6 +414,18 @@
     [
       "455b8ebe-91f2-4649-8749-cdbe1d8382bc",
       ""
+    ],
+    [
+      "b8893794-63fd-4b20-93d4-5a85ac7628a1",
+      "keyswitches"
+    ],
+    [
+      "efa71b76-dcf2-4043-9949-cc88ee6f52ee",
+      "Interface"
+    ],
+    [
+      "4b18b936-d52d-4238-ba18-dfac55181634",
+      "PowerManager"
     ]
   ],
   "text_variables": {}
