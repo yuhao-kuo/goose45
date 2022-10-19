@@ -3202,6 +3202,9 @@
     (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/65aca26b-f764-4ed5-baa0-165dd8604688"
       (reference "J3") (unit 1) (value "Debugger") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical")
     )
+    (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/70e6fd0b-9b65-40ee-a895-64ecbe37ed0c"
+      (reference "J4") (unit 1) (value "USB connector") (footprint "Connector_Molex:Molex_CLIK-Mate_502386-0570_1x05-1MP_P1.25mm_Horizontal")
+    )
     (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/8f863331-f87f-48e4-94f7-6f2dff056036"
       (reference "J5") (unit 1) (value "USART") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x03_P2.00mm_Vertical")
     )
