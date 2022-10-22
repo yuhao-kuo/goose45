@@ -874,7 +874,7 @@
     (uuid 619cd8dd-85af-48cb-9ea1-814c3dfc4b4d)
     (property "Reference" "D2" (id 0) (at 148.082 75.184 0))
     (property "Value" "1N4148" (id 1) (at 148.082 77.724 0))
-    (property "Footprint" "Diode_SMD:D_0805_2012Metric" (id 2) (at 148.082 85.725 0)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (id 2) (at 148.082 85.725 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/1ss355vmte-17-e.pdf" (id 3) (at 148.082 81.28 0)

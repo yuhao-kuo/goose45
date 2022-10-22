@@ -3056,142 +3056,142 @@
       (reference "C13") (unit 1) (value "100uF/16V") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
     (path "/89213b59-d0fc-4819-a71b-9d82fd92a6ce/619cd8dd-85af-48cb-9ea1-814c3dfc4b4d"
-      (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/c35e780a-aefe-422a-ba09-88d4063e7efc"
-      (reference "D3") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D3") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/b8a5e7bb-dad2-4a9f-b619-10f22aa4a7fb"
-      (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D4") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/6e8997d3-3365-40a6-9968-7de7b9666975"
-      (reference "D5") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D5") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/2d3b1348-2f15-48eb-8fbe-546b65f9c366"
-      (reference "D6") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D6") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/b7020ce6-e027-41d4-9d95-7a36b3111664"
-      (reference "D7") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D7") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/32b85880-69bb-45e4-9e51-64b6c636a11d"
-      (reference "D8") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D8") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/f3c6e455-e691-4a2f-a22b-2df683703bdf"
-      (reference "D9") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D9") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/cd5a9202-7a65-4b20-94ef-302fac829f9a"
-      (reference "D10") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D10") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/2d27ec60-faf8-4b38-af53-5695427a01ed"
-      (reference "D11") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D11") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/6f26f9d9-ae4f-4ac6-83ea-d2d2766a4e04"
-      (reference "D12") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D12") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/dddae1ad-267d-4b74-b295-1ac9dc261934"
-      (reference "D13") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D13") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/d4347097-7d66-4db7-91c5-c88964b58a0b"
-      (reference "D14") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D14") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/42f3e917-f763-4f86-86b4-da3016e5f3d6"
-      (reference "D15") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D15") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/e62017a1-f7bd-4510-963d-c2c9cf8fb9e5"
-      (reference "D16") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D16") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/5060d700-686e-4e1f-a9aa-36771e6d7ad5"
-      (reference "D17") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D17") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/a45e4311-9776-4da3-b9bc-21831a991134"
-      (reference "D18") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D18") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/8a7ac203-5a79-4464-a687-b221fef17abf"
-      (reference "D19") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D19") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/b8245390-5482-40a4-b985-fdb6169e57b0"
-      (reference "D20") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D20") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/219b57ce-f1e7-4d6c-96cd-8253c61a6e57"
-      (reference "D21") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D21") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/362a5e41-ad7e-4ee2-b4f0-645faf5e4e56"
-      (reference "D22") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D22") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/e3a63aba-f8c9-4b4f-84c3-349c60c61030"
-      (reference "D23") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D23") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/f9028f72-8bac-4b48-8358-fa55f5f7659f"
-      (reference "D24") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D24") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/e39f0512-2e57-4527-9d29-862b0b32bf2a"
-      (reference "D25") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D25") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/3358cf99-3b17-4aa6-8b55-2dfc6fdad7b0"
-      (reference "D26") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D26") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/68e98649-928d-4dcd-a2cb-20e733789ea6"
-      (reference "D27") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D27") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/38a6d7ed-c5c2-4f74-9049-b91e2089c821"
-      (reference "D28") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D28") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/9c4c4f3a-635c-4495-8c64-dcdcb5c2487f"
-      (reference "D29") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D29") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/4ab1ac43-3b3e-44ac-b89d-07ea807ee3ac"
-      (reference "D30") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D30") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/c7add4b7-bd0f-4568-9d32-e81480571da4"
-      (reference "D31") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D31") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/4560c38c-56ab-4304-8158-ecf2f54f8f5d"
-      (reference "D32") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D32") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/259c0924-435f-4e87-812c-a37797d2904e"
-      (reference "D33") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D33") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/5b131a47-0d1e-4612-83d1-796a6d3d51c8"
-      (reference "D34") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D34") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/e973a4fe-a715-4838-a850-a8cd9dbc9eef"
-      (reference "D35") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D35") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/27fdeaf6-9cab-4578-a7f6-169b8736f658"
-      (reference "D36") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D36") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/1f6c8c67-7fde-48ed-b879-8b339593b8de"
-      (reference "D37") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D37") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/9a3bbb13-9544-4834-acb4-92092cc985b4"
-      (reference "D38") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D38") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/15e0e45f-17d4-4145-afd8-61ec4ef2487e"
-      (reference "D39") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D39") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/8ad44a9b-0759-4262-ace4-7f9f04ae6641"
-      (reference "D40") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D40") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/2ddb9db0-5fd3-4cd4-b4da-8eb7674ff55b"
-      (reference "D41") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D41") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/6eb06fdf-0b56-4518-80ff-4150c16463de"
-      (reference "D42") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D42") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/0422eaa8-e1ea-49c2-a881-c00e85e03d27"
-      (reference "D43") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D43") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/85afde00-66e9-4e70-86f6-77dfb121fbbb"
-      (reference "D44") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D44") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/029cbafe-d93e-45aa-a098-be884fe9f26a"
-      (reference "D45") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D45") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/f4fabc36-b796-40b4-8feb-f5e6c66f4cae"
-      (reference "D46") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D46") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/d6744cc2-3f50-4e50-8859-0e55e50d2c3b"
-      (reference "D48") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D48") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
     (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/9a833d53-58a2-4d51-8c2b-2581a7475639"
       (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
