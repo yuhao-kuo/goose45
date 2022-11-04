@@ -1307,7 +1307,7 @@
     (uuid 70e6fd0b-9b65-40ee-a895-64ecbe37ed0c)
     (property "Reference" "J4" (id 0) (at 147.32 124.46 0))
     (property "Value" "USB connector" (id 1) (at 147.32 140.97 0))
-    (property "Footprint" "Connector_Molex:Molex_CLIK-Mate_502386-0570_1x05-1MP_P1.25mm_Horizontal" (id 2) (at 142.24 120.65 0)
+    (property "Footprint" "Connector_Molex:Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal" (id 2) (at 142.24 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 144.78 133.35 0)
