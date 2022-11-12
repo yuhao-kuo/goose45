@@ -956,7 +956,7 @@
       (net 2 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 1e0622b0-1a0d-44be-b835-9fefcb94da04))
     (pad "2" thru_hole oval (at 0 2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 4 "VIN") (pinfunction "Pin_2") (pintype "passive") (tstamp 263097e7-06a6-4e8b-b874-c3a1f286ca44))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -1397,7 +1397,7 @@
       (net 2 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 110c0058-1122-4f24-b63c-4fe02bf6ef3f))
     (pad "5" thru_hole circle (at -6.57 -2.7 90) (size 3 3) (drill 2.3) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "Shield") (pintype "passive") (tstamp 32bd3be4-eba8-4fc4-9963-1d5238749d9a))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_TE_292303-7_Horizontal.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_USB.3dshapes/USB_A_TE_292303-7_Horizontal.wrl" hide
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
