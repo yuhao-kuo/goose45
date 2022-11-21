@@ -3397,11 +3397,20 @@
     (path "/960b1d47-d642-4381-b755-44496f6f685c/429c3a66-f47a-4a65-9a94-49e9dc8cdffe"
       (reference "SW39") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
     )
+    (path "/960b1d47-d642-4381-b755-44496f6f685c/3e530079-7b11-49bf-a43e-aea650c3b0ad"
+      (reference "SW39_1") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
+    )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/f8745b60-3dad-4327-a5cc-2dc205c20b07"
       (reference "SW40") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
     )
+    (path "/960b1d47-d642-4381-b755-44496f6f685c/4a8762e2-898b-40f3-88c8-0abd6997fec9"
+      (reference "SW40_1") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
+    )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/204cef42-c6ed-4e06-bf36-0c1606098d45"
       (reference "SW41") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
+    )
+    (path "/960b1d47-d642-4381-b755-44496f6f685c/70f3f3c5-4c36-49d9-b175-e129ee148482"
+      (reference "SW41_1") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/523a6d45-02a5-4661-b9c7-6ed753dfc5d3"
       (reference "SW42") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
@@ -3411,6 +3420,9 @@
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/dc91e4bf-9f10-453d-a7ca-e043867528cc"
       (reference "SW44") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
+    )
+    (path "/960b1d47-d642-4381-b755-44496f6f685c/7df6442d-20fb-4b36-ac9e-54f1ed6a3388"
+      (reference "SW44_1") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
     )
     (path "/960b1d47-d642-4381-b755-44496f6f685c/43c08d62-3503-41f8-bd1e-da3af47714d0"
       (reference "SW45") (unit 1) (value "SW_Push") (footprint "Switch_Keyboard_Hotswap_Kailh.pretty:SW_Hotswap_Kailh_MX")
