@@ -5097,10 +5097,10 @@
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp b884f9c3-682b-439d-9099-ae6b8f9e6707))
     (pad "S1" thru_hole oval locked (at 4.32 3.13) (size 1 2.1) (drill oval 0.6 1.7) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp da959eed-995e-4885-a3c7-b2a565c7926c))
-    (model "${KIPRJMOD}/lib/USB Type C Port (SMD Type).STEP"
-      (offset (xyz 0 3.65 1.5))
+    (model "${KIPRJMOD}/lib/USB4105-GF-A.stp"
+      (offset (xyz 0 -3.5 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 -180 -180))
+      (rotate (xyz -90 0 0))
     )
   )
 

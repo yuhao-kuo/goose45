@@ -1328,10 +1328,15 @@
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 4cc46a53-2808-4976-896e-bca826c3a89c))
     (pad "S1" thru_hole oval locked (at 4.32 1.05 180) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask)
       (net 2 "GND") (pinfunction "SHIELD") (pintype "passive") (tstamp 5179665e-d477-4cb3-bcc5-a9ed7d50baf3))
-    (model "${KIPRJMOD}/lib/USB Type C Port (SMD Type).STEP"
+    (model "${KIPRJMOD}/lib/USB Type C Port (SMD Type).STEP" hide
       (offset (xyz 0 3.65 1.6))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 -180 -180))
+    )
+    (model "${KIPRJMOD}/lib/USB4105-GF-A.stp"
+      (offset (xyz 0 -3.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 0))
     )
   )
 
@@ -1607,7 +1612,7 @@
   (dimension (type aligned) (layer "Cmts.User") (tstamp c89d9401-be6e-4239-823b-59712d588c8d)
     (pts (xy 95.015 86.11) (xy 104.06 86.11))
     (height -11.15)
-    (gr_text "9.0450 mm" (at 99.5375 73.81) (layer "Cmts.User") (tstamp 6d882909-3222-46d7-9deb-ce2e10696a26)
+    (gr_text "9.0450 mm" (at 99.5375 73.81) (layer "Cmts.User") (tstamp c89d9401-be6e-4239-823b-59712d588c8d)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (format (units 3) (units_format 1) (precision 4))
