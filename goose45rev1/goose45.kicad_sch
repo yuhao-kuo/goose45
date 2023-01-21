@@ -2976,9 +2976,6 @@
     (path "/3fd19e44-d4c0-439a-b571-9039805b7942"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
-    (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/bc015f4b-bd1e-4f30-8e8b-01a81e320658"
-      (reference "#PWR016") (unit 1) (value "GND") (footprint "")
-    )
     (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/982dffa0-b509-416d-8746-90d34c06342b"
       (reference "#PWR017") (unit 1) (value "GND") (footprint "")
     )
@@ -3171,9 +3168,6 @@
     (path "/960b1d47-d642-4381-b755-44496f6f685c/d6744cc2-3f50-4e50-8859-0e55e50d2c3b"
       (reference "D48") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
     )
-    (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/9a833d53-58a2-4d51-8c2b-2581a7475639"
-      (reference "J1") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12")
-    )
     (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/043b9418-6c0f-4c2c-aa0c-a352caa541d1"
       (reference "J2") (unit 1) (value "SPI") (footprint "Connector_PinHeader_2.00mm:PinHeader_1x05_P2.00mm_Vertical")
     )
@@ -3227,12 +3221,6 @@
     )
     (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/8256e357-b582-45d3-bab5-66c453778a67"
       (reference "R15") (unit 1) (value "22R/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/c6cc393f-2477-4e71-8b51-8c27509f3388"
-      (reference "R16") (unit 1) (value "5.1K/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/b5787149-ec8e-40ef-8510-0a74a63c43fa"
-      (reference "R17") (unit 1) (value "5.1K/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/6bd03f48-a91c-44ab-a846-037cd11e19d8/4dc460c0-5540-4d89-be0c-290f5264920c"
       (reference "R18") (unit 1) (value "22R/5%") (footprint "Resistor_SMD:R_0603_1608Metric")
