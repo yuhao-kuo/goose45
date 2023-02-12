@@ -3025,10 +3025,10 @@
       (reference "C11") (unit 1) (value "1uF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/89213b59-d0fc-4819-a71b-9d82fd92a6ce/ab540ecd-1134-4393-92a3-dc4e06bc0a0d"
-      (reference "C12") (unit 1) (value "100uF/16V") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C12") (unit 1) (value "100uF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/89213b59-d0fc-4819-a71b-9d82fd92a6ce/1dd2138b-f4e4-43c1-903f-ce6594fb4f18"
-      (reference "C13") (unit 1) (value "100uF/16V") (footprint "Capacitor_SMD:C_1206_3216Metric")
+      (reference "C13") (unit 1) (value "100uF/16V") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/89213b59-d0fc-4819-a71b-9d82fd92a6ce/619cd8dd-85af-48cb-9ea1-814c3dfc4b4d"
       (reference "D2") (unit 1) (value "1N4148") (footprint "Diode_SMD:D_SOD-323")
