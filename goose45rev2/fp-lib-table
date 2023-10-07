@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Switch_Keyboard_Kailh.pretty")(type "KiCad")(uri "${KIPRJMOD}/lib/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Hotswap_Kailh.pretty")(type "KiCad")(uri "${KIPRJMOD}/lib/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Hotswap_Kailh.pretty")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX.pretty")(type "KiCad")(uri "${KIPRJMOD}/lib/keyswitch-kicad-library/library/footprints/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer.pretty")(type "KiCad")(uri "${KIPRJMOD}/lib/keyswitch-kicad-library/library/footprints/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
+)
